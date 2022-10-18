@@ -1,6 +1,6 @@
 ## Hello 👋 Welcome !
 
-I am passionate Techie, exploring new areas and engaging with DevOps and Cloud enthusistics. 
+I am a passionate Techie; exploring new areas and engaging with DevOps & Cloud enthusistics. 
 
 <img width="250" alt="link" src="https://user-images.githubusercontent.com/10282550/196354087-263afa30-fc70-4684-9454-bad249696db9.png">
 
