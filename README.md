@@ -8,6 +8,12 @@ I am a passionate Techie; exploring new areas and engaging with DevOps & Cloud e
 
 [<img width="29" alt="link" src="https://user-images.githubusercontent.com/10282550/196350560-1148dffc-0ac0-4312-9f29-c86f2390b178.png">](https://www.linkedin.com/in/ambilykk/)
 
+## GitHub Actions
+
+- [Deployment Auto Approve](https://github.com/marketplace/actions/deployment-auto-approve)
+- [Azure Compliance Checker Action](https://github.com/marketplace/actions/azure-compliance-checker)
+- [Dependabot Alert Export](https://github.com/marketplace/actions/dependabot-alert-export)
+
 ## Articles & Books
 - [Books in Apress](https://www.apress.com/gp/book/9781484264119)
 - [Books in Amazon](http://amazon.com/author/ambilykk)
@@ -15,9 +21,4 @@ I am a passionate Techie; exploring new areas and engaging with DevOps & Cloud e
 - [Technical articles in Simple Talk](https://www.red-gate.com/simple-talk/author/ambily-kavumkal-kamalasanan/)
 - [Technical articles in CodeProject](https://www.codeproject.com/Articles/ambilykk)
 - [Blog](https://ambilykk.wordpress.com/)
-- GitHub Marketplace 
-  - [Azure Compliance Checker Action](https://github.com/marketplace/actions/azure-compliance-checker)
-  - [Dependabot Alert Export](https://github.com/marketplace/actions/dependabot-alert-export)
-
-
 
