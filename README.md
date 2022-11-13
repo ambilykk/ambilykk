@@ -10,6 +10,7 @@ I am a passionate Techie; exploring new areas and engaging with DevOps & Cloud e
 
 ## GitHub Actions
 
+- [Actions Custom OIDC Claim](https://github.com/marketplace/actions/actions-custom-oidc-claim)
 - [Deployment Auto Approve](https://github.com/marketplace/actions/deployment-auto-approve)
 - [Azure Compliance Checker Action](https://github.com/marketplace/actions/azure-compliance-checker)
 - [Dependabot Alert Export](https://github.com/marketplace/actions/dependabot-alert-export)
