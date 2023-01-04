@@ -10,6 +10,7 @@ I am a passionate Techie/Hubber; exploring new areas and engaging with DevOps & 
 
 ## GitHub Actions
 
+- [Job Run Attempt](https://github.com/marketplace/actions/job-run-attempt)
 - [Deployment Review Comment](https://github.com/marketplace/actions/deployment-review-comment)
 - [Actions Custom OIDC Claim](https://github.com/marketplace/actions/actions-custom-oidc-claim)
 - [Deployment Auto Approve](https://github.com/marketplace/actions/deployment-auto-approve)
